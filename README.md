@@ -1,7 +1,7 @@
 # Typescript Code Guide
-Pastikan perangkat sudah install typescript secara global
-Untuk Inisialisasi awal ketik `tsc --init`
-Compile Typescript ke Javascript ketik: `tsc`
+Pastikan perangkat sudah install typescript secara global\
+Untuk Inisialisasi awal ketik `tsc --init`\
+Compile Typescript ke Javascript ketik: `tsc`\
 konfigurasi rootDir dan outDir bisa dilakukan di tsconfig.ts
 &nbsp;
 ## BASIC

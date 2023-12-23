@@ -38,8 +38,8 @@ console.log(mySize);
 function calculateTax(income: number, tax: number): number {
     return 0;
 }
-// : number (1) = ensure parameter type number 
-// : number (2) = ensure function returning number
+// : number (1, 2) = ensure parameter type number 
+// : number (3) = ensure function returning number
 ```
 ### Object
 ```
